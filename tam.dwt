@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Eternal Devide</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href= "../owl.carousel.css">
+<link rel="stylesheet" href= "../css/owl.theme.default.css">
+<link rel="icon" href="../images/logo2.png" type="image/x-icon">
+<script src="../js/bootstrap.bundle.min.js"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<nav class="navbar navbar-expand-lg bg-light border-bot">
+  <div class="container"> <a class="navbar-brand" href="../index.html"><img src= "../images/logo2.png" alt=""></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item"> <a class="nav-link active" aria-current="page" href="../index.html">Home</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../men.html">Shop</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../men.html">Collection</a> </li>
+        <li class="nav-item"> <a class="nav-link" href="../men.html">Gallery</a> </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Pages </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="../about.html">About US</a></li>
+            <li><a class="dropdown-item" href= "../men.html">Products</a></li>
+            <li><a class="dropdown-item" href="#">Single Product</a></li>
+            <li><a class="dropdown-item" href="#">Contact us</a></li>
+          </ul>
+        </li>
+        <li class="nav-item dropdown"> <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Features </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Feature 01</a></li>
+            <li><a class="dropdown-item" href="#">Feature 02</a></li>
+            <li><a class="dropdown-item" href="#">Feature 03</a></li>
+            <li><a class="dropdown-item" href="#">Feature 04</a></li>
+          </ul>
+        </li>
+        <li class="nav-item"> <a class="nav-link" href="../about.html">About Us</a> </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--xong phần header-->
+<!-- TemplateBeginEditable name="EditRegion1" -->
+<main></main>
+<!-- TemplateEndEditable -->
+<footer class="bg-dark text-light">
+	<div class="container">
+		<div class="row">
+		<div class="col-lg-3 p-3">
+		<a href="#"><img src= "../images/logo2.png" alt=""></a>
+		<p class="pt-3">31 đường 37 An Bình, Hồ Chí Minh, Thành phố Hồ Chí Minh</p>	
+		<p>eternaldivide@company.com</p>	
+		<p>010-020-0340</p>	
+			</div>
+		<div class="col-lg-3 p-3">
+			<h5>Shopping & Categories</h5>
+			<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Top</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Jacket</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Dress</a></li>
+			</ul>
+			</div>
+					<div class="col-lg-3 p-3">
+			<h5>Usefull link</h5>
+			<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Top</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Jacket</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Dress</a></li>
+			</ul>
+			</div>
+					<div class="col-lg-3 p-3">
+			<h5>Help & information</h5>
+			<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Your Order</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Shipping</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Payment</a></li>
+			</ul>
+			</div>
+		</div>
+		
+		
+		
+		</div>
+	
+	</footer>
+<script src="../js/jquery-3.6.0.min.js"	></script>
+<script src="../js/owl.carousel.js"></script>
+<script src="../js/carousel-control.js"></script>
+</body>
+</html>
